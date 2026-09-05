@@ -1,0 +1,19 @@
+{
+  "name": "port-scanner",
+  "version": "1.0.0",
+  "description": "A TCP port scanner built with Node.js",
+  "main": "scanner.js",
+  "scripts": {
+    "start": "node scanner.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "networking",
+    "port-scanner",
+    "nodejs",
+    "tcp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
